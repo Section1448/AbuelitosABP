@@ -1,0 +1,16 @@
+.Counter {
+  font-size: 1.5em;
+  text-align: center;
+  color: orangered;
+}
+
+.ButtonUp{
+  background-color: #4CAF50;
+  color: black;
+}
+
+.ButtonDown{
+  background-color: #f44336; 
+  color: black;
+  
+}

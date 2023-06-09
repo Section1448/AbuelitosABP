@@ -1,0 +1,48 @@
+.h2b {
+    font-size: 1.5em;
+    text-align: center;
+    color: rgb(35, 104, 137);
+}
+.ab{
+    color: rgb(35, 104, 137);
+}
+.ab:hover{
+    color: rgb(35, 104, 137);
+    font-weight: bold;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    font-style: italic;
+
+}
+
+th {
+    padding: 10px;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    font-style: italic;
+    font-weight: bold;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+input {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+textarea {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+
